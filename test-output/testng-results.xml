@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-16T20:24:02 IST" name="Default suite" finished-at="2024-07-16T20:25:28 IST" duration-ms="86369">
+    <groups>
+    </groups>
+    <test started-at="2024-07-16T20:24:02 IST" name="Default test" finished-at="2024-07-16T20:25:28 IST" duration-ms="86369">
+      <class name="loginFunctionality.LoginFunctionality">
+        <test-method signature="loginFuctionalityTest()[pri:0, instance:loginFunctionality.LoginFunctionality@7b98f307]" started-at="2024-07-16T20:24:02 IST" name="loginFuctionalityTest" finished-at="2024-07-16T20:25:28 IST" duration-ms="86231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFuctionalityTest -->
+      </class> <!-- loginFunctionality.LoginFunctionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
